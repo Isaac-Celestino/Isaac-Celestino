@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de backend🧑<br>2.º semestre de análise e desenvolvimento de sistemas📚<br>Estou a procura de estágio 💻
+Sou estudante de backend🧑<br>4.º semestre de análise e desenvolvimento de sistemas📚<br>Estou a procura de estágio 💻
 
 
 ## 🌐 Socials:
