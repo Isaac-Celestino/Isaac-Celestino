@@ -1,6 +1,6 @@
 # 💫 About Me:
-Sou estudante de backend🧑<br>4.º semestre de análise e desenvolvimento de sistemas📚<br>Estou a procura de estágio 💻
-
+🎓 Estudante de Back-End | 📚 4º Semestre em Análise e Desenvolvimento de Sistemas
+💼 Em busca de uma oportunidade de estágio para aplicar e expandir meu conhecimento em desenvolvimento e tecnologia.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-celestino-572876285/) 
