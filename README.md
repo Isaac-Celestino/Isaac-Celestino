@@ -8,6 +8,11 @@ Sou estudante de backend🧑<br>4.º semestre de análise e desenvolvimento de s
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Redes](https://img.shields.io/badge/redes-%230077B5.svg?style=flat&logo=network&logoColor=white)
+![Servidores](https://img.shields.io/badge/servidores-%230A0A0A.svg?style=flat&logo=server&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Isaac-Celestino&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Celestino&theme=radical&hide_border=false)<br/>
