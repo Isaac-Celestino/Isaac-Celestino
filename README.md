@@ -13,6 +13,9 @@
 ![Servidores](https://img.shields.io/badge/servidores-%230A0A0A.svg?style=flat&logo=server&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302568B.svg?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Isaac-Celestino&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Isaac-Celestino&theme=radical&hide_border=false)<br/>
